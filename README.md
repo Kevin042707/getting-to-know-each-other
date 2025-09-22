@@ -1,3 +1,4 @@
 # getting-to-know-each-other
 ## Credits:
-Credit ChatGPT
+Author: Kevin Cordova
+Credit ChatGPT and Github
